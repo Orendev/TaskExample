@@ -1,0 +1,4 @@
+<?
+$sSectionName = "Исполнители";
+$arDirProperties = array();
+?>
